@@ -32,7 +32,7 @@ app.layout = html.Div([
     # Top Banner Header Strip
     html.Div([
         html.H1("CENTRALIZED REGISTRATION DASHBOARD", style={'margin': '0', 'fontSize': '26px', 'letterSpacing': '1px'}),
-        html.P("Centralized registration dashboard loop to avoid the 'trial and error' loop", style={'margin': '5px 0 0 0', 'color': '#6c757d', 'fontSize': '14px'})
+        html.P("Centralized registration dashboard for UMPSA students", style={'margin': '5px 0 0 0', 'color': '#6c757d', 'fontSize': '14px'})
     ], style={'textAlign': 'center', 'padding': '15px 0', 'borderBottom': '2px solid #dee2e6', 'fontFamily': 'sans-serif'}),
     
     # Scrollable Filter Options Panel (Keeps layout clean with 17 subjects)
